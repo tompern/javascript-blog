@@ -1,0 +1,95 @@
+[33mcommit 3af9e2d42e72c2267e326806e18f9d3155a4d5f2[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: Tomasz Pernal <tompern1@googlemail.com>
+Date:   Wed Jan 11 12:21:50 2023 +0000
+
+    generateAuthors
+
+[33mcommit 8cabbdddd2d8bc161c762cb1109a664551cc37fc[m[33m ([m[1;31morigin/main[m[33m)[m
+Author: Tomasz Pernal <tompern1@googlemail.com>
+Date:   Fri Jan 6 14:22:32 2023 +0000
+
+    generate tag list in articles
+
+[33mcommit a049f8f48c2839ba261b0fec285b0846a08c7162[m
+Author: Tomasz Pernal <tompern1@googlemail.com>
+Date:   Thu Jan 5 11:59:15 2023 +0000
+
+    added tags and template generateTags
+
+[33mcommit cc0f2b742ceaccb2baa75729edbe783f58195a72[m
+Author: Tomasz Pernal <tompern1@googlemail.com>
+Date:   Thu Jan 5 10:25:59 2023 +0000
+
+    Add .eslintrc.json
+
+[33mcommit 2f349dbb57e9df8392b45a0419b33c15ee1c5b9b[m
+Author: Tomasz Pernal <tompern1@googlemail.com>
+Date:   Tue Dec 13 19:57:03 2022 +0000
+
+    updated
+
+[33mcommit 5eec55682bbcae7733a8507fac72511798b52271[m
+Author: Tomasz Pernal <tompern1@googlemail.com>
+Date:   Mon Dec 12 20:34:34 2022 +0000
+
+    Generate Title list
+
+[33mcommit dc1a6e2ec5a1bde364770c7087f37b8b067a3b19[m
+Author: Tomasz Pernal <tompern1@googlemail.com>
+Date:   Fri Dec 9 14:36:19 2022 +0000
+
+    remove links and added html code
+
+[33mcommit 5233c5732e284d4d44a0b394f411d36283f6dc71[m
+Author: Tomasz Pernal <tompern1@googlemail.com>
+Date:   Fri Dec 9 14:15:19 2022 +0000
+
+    removed console.log
+
+[33mcommit 08cca094b984e60b3217181872811d92e2d7ab8f[m
+Author: Tomasz Pernal <tompern1@googlemail.com>
+Date:   Mon Dec 5 10:17:33 2022 +0000
+
+    Finishing function
+
+[33mcommit b5727bf2326b3959e9a06473841672fab8eb59fc[m
+Author: Tomasz Pernal <tompern1@googlemail.com>
+Date:   Mon Dec 5 10:04:41 2022 +0000
+
+    Add class
+
+[33mcommit 68e700fa335c9e34d6b04f328db23e2fcea26d54[m
+Author: Tomasz Pernal <tompern1@googlemail.com>
+Date:   Mon Dec 5 09:52:38 2022 +0000
+
+    Remove classes
+
+[33mcommit 83e9eeddbf6f0b93af5f34c52730bdd99ecab982[m
+Author: Tomasz Pernal <tompern1@googlemail.com>
+Date:   Mon Dec 5 09:44:41 2022 +0000
+
+    Event
+
+[33mcommit 9ff35bafa295cec6ceb41cf3a474d4d738e22c6a[m
+Author: Tomasz Pernal <tompern1@googlemail.com>
+Date:   Wed Nov 30 13:53:51 2022 +0000
+
+    updated
+
+[33mcommit 15c5541355bf788672d05047535a587f59c9b121[m
+Author: Tomasz Pernal <tompern1@googlemail.com>
+Date:   Wed Nov 30 13:29:36 2022 +0000
+
+    task runner updated
+
+[33mcommit dd8b6508449dc64e7c0a1fbe7805f7b38d91e318[m
+Author: Tomasz Pernal <tompern1@googlemail.com>
+Date:   Wed Nov 30 13:14:09 2022 +0000
+
+    Added index and css
+
+[33mcommit ede618d9ebf81d783a54b28b052f928e34a339b8[m
+Author: Tomasz Pernal <tompern1@googlemail.com>
+Date:   Wed Nov 30 13:07:23 2022 +0000
+
+    New
